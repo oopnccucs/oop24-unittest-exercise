@@ -2,7 +2,7 @@
 
 ## 使用方法
 
-關於 cmake、google test、gcov、lcov 的流程與使用方法，請參照 TA 課程簡報，與 https://github.com/oopnccucs/exercise-unittest-example 中的說明
+關於 cmake、google test、gcov、lcov 的流程與使用方法，請參照 TA 課程簡報，與 https://github.com/oopnccucs/oop24-unittest-example 中的說明
 
 ## 練習內容
 
